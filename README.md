@@ -1,4 +1,4 @@
-# Cob Calibration Data
+# cob_calibration_data
 ## Version
 * This is based on the release version ros-indigo-cob-calibration-data:amd64/trusty **0.6.7**-0trusty-20170717-085344-0800, and incorporated with the changes customized for Robbie & Yuri (cob raw3-6) in Interactive Robotics Group.
   * To mix a release version with customizations:
